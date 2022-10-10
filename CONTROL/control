@@ -1,0 +1,8 @@
+Package: enigma2-plugin-skins-pd1loi-hd-night-atv
+Version:1.0.0.5
+Section: skins
+Priority: optional
+Architecture: all
+Maintainer: L Kuperij (pd1loi).
+Description: skins pd1loi-hd-hd-night-atv
+Source: {"LastUpdated":"1378039339","Type":"Skin","PostRemoveFlags":"Restart GUI","Title":"skins PD1LOI-HD PD1LOI-Full-HD-ATV","PostInstallFlags":"Restart GUI"}
